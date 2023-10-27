@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.three {
+  display: flex;
+}
+.img3 {
+  height: 300px;
+  width: 65vw;
+}

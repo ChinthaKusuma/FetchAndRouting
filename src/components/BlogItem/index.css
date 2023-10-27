@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.one {
+  display: flex;
+  flex-direction: row;
+}
+.img1 {
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+}
+.two {
+  display: flex;
+}
+.img2 {
+  height: 50px;
+  width: 50px;
+  border-radius: 30px;
+  margin-right: 20px;
+}
+.li1 {
+  list-style: none;
+  margin: 10px;
+}
